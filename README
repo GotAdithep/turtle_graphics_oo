@@ -1,0 +1,12 @@
+In this assignment week 12 i complete all the given task such as turn polygon_art.py into oop and also add choice
+to generate different picture as the example.
+
+for choice 1: it generate 10 different size of triangle (also every choice has random color)
+for choice 2: it generate 10 different size of square
+for choice 3: it generate 10 different size of pentagon
+for choice 4: i make it generate 5 different triangle,square and pentagon
+for choice 5: it generate 10 triangle with each has 2 triangle inside
+for choice 6: it generate 10 square with each has 2 square inside
+for choice 7: it generate 10 pentagon with each has 2 pentagon inside:
+for choice 8 : it generate 5 different tiangle,square and pentagon also each of them has 2 of thier shape inside
+for choice 9: it generate 10 random shape also each has random chance of 0-2 similar shape inside
